@@ -66,6 +66,6 @@ Apply regression model on sampled dataset and compare results.
 <br>
 
 <p align="center">
-<img src="Snapshot/Random_Undersampling.png" alt="Random Undersampling Image" width="30%" />
+<img src="SnapShots/Random_Undersampling.png" alt="Random Undersampling Image" width="30%" />
 </p>
 <hr/>
