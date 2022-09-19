@@ -69,3 +69,51 @@ Apply regression model on sampled dataset and compare results.
 <img src="SnapShots/Random_Undersampling.png" alt="Random Undersampling Image" width="30%" />
 </p>
 <hr/>
+
+### **Smote**
+
+<br>
+
+<p align="center">
+<img src="SnapShots/Smote.png" alt="Smoteg Image" width="30%" />
+</p>
+<hr/>
+
+### **Boderline Smote**
+
+<br>
+
+<p align="center">
+<img src="SnapShots/Boderline_Smote.png" alt="Boderline Smote Image" width="30%" />
+</p>
+<hr/>
+
+### **SVM Smote**
+
+<br>
+
+<p align="center">
+<img src="SnapShots/Svm_Smote.png" alt="SVM Smote Image" width="30%" />
+</p>
+<hr/>
+
+### **Adasyn**
+
+<br>
+
+<p align="center">
+<img src="SnapShots/Adasun.png" alt="Adasyn Image" width="30%" />
+</p>
+<hr/>
+
+## **Comparision**
+
+<br>
+
+<p align="center">
+<img src="SnapShots/Comparision.png" alt="Comparision Image" width="30%" />
+</p>
+<hr/>
+
+
+
