@@ -116,4 +116,11 @@ Apply regression model on sampled dataset and compare results.
 <hr/>
 
 
-
+##Conclusion
+Working on imbalanced datasets directly gives very low accuracy and other low metric
+parameter values. Hence it is definitely required to balance the classes of such datasets
+before applying any algorithm and working on the data. This balance can be brought about
+by many sampling techniques like Random undersampling, SMOTE, Borderline SMOTE,
+SVM SMOTE and ADASYN. As a result of comparison of performance metrics of these
+five sampling techniques across two datasets, ADASYN sampling algorithm proved to be
+the one offering the highest recall value and accuracy after balancing the data.
