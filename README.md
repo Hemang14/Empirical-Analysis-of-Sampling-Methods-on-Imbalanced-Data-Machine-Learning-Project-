@@ -75,7 +75,7 @@ Apply regression model on sampled dataset and compare results.
 <br>
 
 <p align="center">
-<img src="SnapShots/Smote.png" alt="Smoteg Image" width="30%" />
+<img src="SnapShots/smote.png" alt="Smote Image" width="30%" />
 </p>
 <hr/>
 
@@ -102,7 +102,7 @@ Apply regression model on sampled dataset and compare results.
 <br>
 
 <p align="center">
-<img src="SnapShots/Adasun.png" alt="Adasyn Image" width="30%" />
+<img src="SnapShots/Adasyn.png" alt="Adasyn Image" width="30%" />
 </p>
 <hr/>
 
