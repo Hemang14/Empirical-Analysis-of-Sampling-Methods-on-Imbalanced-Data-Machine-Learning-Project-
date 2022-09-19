@@ -116,7 +116,10 @@ Apply regression model on sampled dataset and compare results.
 <hr/>
 
 
-##Conclusion
+## **Conclusion**
+
+<br>
+
 Working on imbalanced datasets directly gives very low accuracy and other low metric
 parameter values. Hence it is definitely required to balance the classes of such datasets
 before applying any algorithm and working on the data. This balance can be brought about
