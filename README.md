@@ -56,3 +56,16 @@ Step 5:
 ```sh
 Apply regression model on sampled dataset and compare results.
 ```
+
+
+## **Results**
+<hr/>
+
+### **Random Undersampling**
+
+<br>
+
+<p align="center">
+<img src="Snapshot/Random_Undersampling.png" alt="Random Undersampling Image" width="30%" />
+</p>
+<hr/>
